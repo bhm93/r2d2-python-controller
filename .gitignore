@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.swp
+
+# MediaPipe models: downloaded automatically on first run
+*.task
+*.tflite
